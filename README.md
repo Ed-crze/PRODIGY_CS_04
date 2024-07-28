@@ -1,4 +1,6 @@
 A Simple Keylogger program
+
+
 Create a basic keylogger program that records and logs keystrokes. Focus on logging the keys pressed and saving them to a file. (Note: Ethical considerations and permissions are crucial for projects involving keyloggers.)
 This project captures and logs keystrokes using the keyboard library in Python. Each key press is recorded and appended to a file named keystrokes.txt.
 
